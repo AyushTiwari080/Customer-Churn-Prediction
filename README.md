@@ -54,7 +54,7 @@ Customer-Churn-Prediction/
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/Customer-Churn-Prediction.git
+git clone https://github.com/AyushTiwari080/Customer-Churn-Prediction.git
 
 # Navigate to the project
 cd Customer-Churn-Prediction
